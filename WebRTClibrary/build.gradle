@@ -41,7 +41,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     /* Path of Official compiled library of WebRTC */
-    implementation(files("libs/libwebrtc.aar"))
+//    implementation files('WebRTClibrary/libs/libwebrtc.aar')
 }
 
 afterEvaluate {
@@ -49,7 +49,6 @@ afterEvaluate {
         publications {
             full(MavenPublication) {
                 from components.release
-
                 groupId = 'com.github.WebRTCLibrary'
                 artifactId = 'WebRTC-Library'
                 version = '1.0'

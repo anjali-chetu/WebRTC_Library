@@ -21,7 +21,6 @@
       <change beforePath="$PROJECT_DIR$/WebRTClibrary/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRTClibrary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/WebRTClibrary/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
